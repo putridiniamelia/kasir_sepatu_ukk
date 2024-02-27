@@ -1,0 +1,18 @@
+.btn-tambah {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.tables-wrapper .cari {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cari .input-cari input {
+    width: 50rem;
+}
+
+.cari .input-cari {
+    display: flex;
+    justify-content: end;
+}
